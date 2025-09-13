@@ -75,8 +75,6 @@ TCGA 多模态数据筛选器（RNA/CNV/WSI/生存）
 - `requirements.txt`：Python 依赖。
 - `README.md`：使用说明。
 
-开源许可
-- 本仓库未附带许可证文件。若你需要将其正式开源发布，请添加 `LICENSE` 文件（例如 MIT 或 Apache-2.0），并在 `README.md` 中注明。
 
 致谢与引用
 - 数据来源：GDC（Genomic Data Commons）/TCGA。使用数据请遵守 GDC/TCGA 的数据使用政策和条款。
